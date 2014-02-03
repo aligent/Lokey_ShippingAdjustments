@@ -1,0 +1,10 @@
+{
+  "name":"lokey/shippingadjustments",
+  "type":"magento-module",
+  "license":"OSL-3.0",
+  "homepage":"https://github.com/LokeyCoding/Lokey_ShippingAdjustments",
+  "description":"Magento module that provides a few events to allow adjustment of shipping rate requests",
+  "require":{
+      "magento-hackathon/magento-composer-installer":"*"
+  }
+}
